@@ -1,18 +1,18 @@
-## Simple-Lexical-analyzer
+# Simple-Lexical-analyzer
 
 Lexical analyzer takes a stream of chars (source code) and then analyzes the code to give
 what kind of tokens are present at what line and at what location.
 
 Makefile has been supplied for easier compilation and execution
 
-# Commands to run:
+## Commands to run:
 1) make
 2) ./a.out [name_of_the_file] (sample.txt in this case)
 
 Works on linux!
 
 
-# Output: 
+## Output: 
 
  IC: 123 <line: 3 position: 1>
  
