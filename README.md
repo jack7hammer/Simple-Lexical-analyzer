@@ -48,5 +48,7 @@ Output:
  ID: f <line: 9 position: 5>
  
  BINOP: / <line: 10 position: 1> 
+ 
  ID: a12 <line: 10 position: 3>
+ 
  End of file: 
